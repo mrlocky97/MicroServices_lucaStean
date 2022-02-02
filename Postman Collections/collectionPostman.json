@@ -60,7 +60,7 @@
       "response": []
     },
     {
-      "name": "NEW USER",
+      "name": "Add user",
       "id": "86f72b73-2d86-484d-88b9-3d9a3ee49b18",
       "protocolProfileBehavior": {
         "disableBodyPruning": true
