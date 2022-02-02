@@ -12,9 +12,31 @@
         "disableBodyPruning": true
       },
       "request": {
-        "method": "GET",
+        "method": "POST",
         "header": [],
-        "url": null
+        "url": {
+          "raw": "localhost:8888/user/login?mail=sebastian&password=123",
+          "host": [
+            "localhost"
+          ],
+          "port": "8888",
+          "path": [
+            "user",
+            "login"
+          ],
+          "query": [
+            {
+              "key": "mail",
+              "value": "sebastian",
+              "type": "text"
+            },
+            {
+              "key": "password",
+              "value": "123",
+              "type": "text"
+            }
+          ]
+        }
       },
       "response": []
     }
