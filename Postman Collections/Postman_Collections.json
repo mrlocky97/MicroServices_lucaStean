@@ -39,6 +39,25 @@
         }
       },
       "response": []
+    },
+    {
+      "name": "Shopping Buscar",
+      "id": "4832182b-2723-4075-a0a2-dbb824c03db7",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer eyJhbGciOiJIUzM4NCJ9.eyJqdGkiOiI2ZjU0Mzk2ODBlODE0ZmVkYTA4Yjg1MmZhYmRiZWI4NyIsInN1YiI6InNlYmFzdGlhbiIsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiJdLCJpYXQiOjE2NDM4MTYxNzcsImV4cCI6MTY0MzgxOTc3N30.qqGS07-RYoMPQDCd4heqxknZzDYizCfJRO2uyL99ES9TmD0LiS3on_nCZ2ro0IzA",
+            "type": "text"
+          }
+        ],
+        "url": "localhost:8888/shopping/Amaral"
+      },
+      "response": []
     }
   ]
 }
