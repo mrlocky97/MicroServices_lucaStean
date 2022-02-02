@@ -4,5 +4,19 @@
     "name": "Users",
     "schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
   },
-  "item": []
+  "item": [
+    {
+      "name": "New Request",
+      "id": "1a697beb-be85-4307-a5e6-713c07b9df8e",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": null
+      },
+      "response": []
+    }
+  ]
 }
