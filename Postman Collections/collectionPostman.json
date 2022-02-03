@@ -137,19 +137,6 @@
         "url": "http://localhost:8888/user/users"
       },
       "response": []
-    },
-    {
-      "name": "List Event Name",
-      "id": "794a1b4b-5600-4f33-a634-9323b4173a55",
-      "protocolProfileBehavior": {
-        "disableBodyPruning": true
-      },
-      "request": {
-        "method": "GET",
-        "header": [],
-        "url": "http://localhost:7777/event/events/name/Amaral"
-      },
-      "response": []
     }
   ]
 }
