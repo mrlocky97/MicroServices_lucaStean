@@ -90,7 +90,7 @@
       "request": {
         "method": "DELETE",
         "header": [],
-        "url": "http://localhost:8888/user/deleteUser/{id}"
+        "url": "http://localhost:8888/user/deleteUser/196"
       },
       "response": []
     },
