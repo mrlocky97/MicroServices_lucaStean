@@ -137,6 +137,28 @@
         "url": "http://localhost:8888/user/users"
       },
       "response": []
+    },
+    {
+      "name": "Update Event",
+      "id": "d3fba886-c19a-42c3-a6a6-751b4f580b87",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "PUT",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": " {\r\n        \"code\": \"6542defg\",\r\n        \"name\": \"Concierto de Viena\",\r\n        \"price\": \"30.00\",\r\n        \"short_description\": \"un concierto de musica  en un ambiente calido y acogedor\",\r\n        \"long_description\": \" los violines y otros instrumentos de cuerda al ritmo de canciones conocidas\",\r\n        \"date\": \"01/01/2023\",\r\n        \"time\": \"12:00\",\r\n        \"genre\": \"clasica\",\r\n        \"policy\": \"mascarilla y test de antigenos\",\r\n        \"venue\": [\r\n            \"rusia\",\r\n            \"Viena\",\r\n            \"ecuador\",\r\n            \"ucrania\"\r\n        ]\r\n    }",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": "http://localhost:7777/event/updateEvent/6542defg"
+      },
+      "response": []
     }
   ]
 }
