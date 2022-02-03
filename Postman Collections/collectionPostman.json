@@ -93,6 +93,19 @@
         "url": "http://localhost:8888/user/deleteUser/{id}"
       },
       "response": []
+    },
+    {
+      "name": "New Request",
+      "id": "21fd1261-19a8-4280-8453-0b98746d0b25",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": null
+      },
+      "response": []
     }
   ]
 }
