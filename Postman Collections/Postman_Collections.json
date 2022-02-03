@@ -150,6 +150,19 @@
         "url": "http://localhost:7777/deleteEvent/9990"
       },
       "response": []
+    },
+    {
+      "name": "Delete Event Copy",
+      "id": "fb871a49-6ce7-421e-9a9d-3b362e8bce6b",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "DELETE",
+        "header": [],
+        "url": "http://localhost:7777/deleteEvent/9990"
+      },
+      "response": []
     }
   ]
 }
