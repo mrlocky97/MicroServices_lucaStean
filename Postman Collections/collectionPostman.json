@@ -80,6 +80,19 @@
         "url": "http://localhost:8888/user/add"
       },
       "response": []
+    },
+    {
+      "name": "New Request",
+      "id": "917dfd2c-8d73-4bb1-b206-b0552c4fa4f4",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": null
+      },
+      "response": []
     }
   ]
 }
