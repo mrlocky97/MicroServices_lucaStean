@@ -101,9 +101,9 @@
         "disableBodyPruning": true
       },
       "request": {
-        "method": "GET",
+        "method": "PUT",
         "header": [],
-        "url": null
+        "url": "http://localhost:8888/update/{id}"
       },
       "response": []
     }
