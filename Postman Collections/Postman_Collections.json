@@ -137,19 +137,6 @@
         "url": "http://localhost:8888/user/users"
       },
       "response": []
-    },
-    {
-      "name": "Delete Event",
-      "id": "e2d6d439-76e8-45f3-9a1b-30df63449a74",
-      "protocolProfileBehavior": {
-        "disableBodyPruning": true
-      },
-      "request": {
-        "method": "DELETE",
-        "header": [],
-        "url": "http://localhost:7777/deleteEvent/9990"
-      },
-      "response": []
     }
   ]
 }
