@@ -137,6 +137,19 @@
         "url": "http://localhost:8888/user/users"
       },
       "response": []
+    },
+    {
+      "name": "List Event City",
+      "id": "f0e239c3-b5d2-43e5-a91c-2a5c800b9d53",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "http://localhost:7777/event/events/city/Viena"
+      },
+      "response": []
     }
   ]
 }
