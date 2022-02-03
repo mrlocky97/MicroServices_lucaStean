@@ -68,7 +68,16 @@
       "request": {
         "method": "GET",
         "header": [],
-        "url": null
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n    \"name\":\"los pepes\",\r\n    \"lastname\":\"cocoloco\",\r\n    \"mail\":\"losSebas\",\r\n    \"password\":\"1234\",\r\n    \"date\":\"123\"\r\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": "http://localhost:8888/user/add"
       },
       "response": []
     }
