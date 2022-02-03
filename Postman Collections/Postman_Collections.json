@@ -80,6 +80,19 @@
         "url": "http://localhost:8888/user/add"
       },
       "response": []
+    },
+    {
+      "name": "http://localhost:8080/event/events",
+      "id": "25fd2b3d-0c56-411d-8f3d-3ddbee79b05a",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "http://localhost:8080/event/events"
+      },
+      "response": []
     }
   ]
 }
