@@ -106,6 +106,28 @@
         "url": "http://localhost:8888/update/{id}"
       },
       "response": []
+    },
+    {
+      "name": "Users",
+      "id": "b0d57f42-2d5b-48d3-8a46-41956821d3fc",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": "http://localhost:8888/user/users"
+      },
+      "response": []
     }
   ]
 }
