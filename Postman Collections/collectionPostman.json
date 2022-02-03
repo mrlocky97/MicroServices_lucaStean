@@ -82,19 +82,6 @@
       "response": []
     },
     {
-      "name": "http://localhost:8080/event/events",
-      "id": "25fd2b3d-0c56-411d-8f3d-3ddbee79b05a",
-      "protocolProfileBehavior": {
-        "disableBodyPruning": true
-      },
-      "request": {
-        "method": "GET",
-        "header": [],
-        "url": "http://localhost:8080/event/events"
-      },
-      "response": []
-    },
-    {
       "name": "http://localhost:8080/event/events Copy",
       "id": "1c1170f7-c872-4040-8dc7-b7996ca862ba",
       "protocolProfileBehavior": {
